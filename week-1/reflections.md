@@ -36,7 +36,7 @@ I remember about half of these off the top of my head.
 
 -../ Is a directory
 
--touch: Creates a new empty file
+-touch: Creates a new empty file 
 
 -mkdir: Creates new directories
 
