@@ -1,5 +1,5 @@
  Open Source and Repo Setup Reflection 
-
+ 
 Explain how to create a repository on GitHub and clone the repository to your local computer to a non-technical person.
 
 Creating a repository on Github is very simple. Once you have an account created, look for the plus sign in the upper right corner of your screen and select "New repository". This will bring you to a new page. Give your repository a name and select if you want share it with the public or privately. Choose the MIT License (its the easiest and most flexible to work with). Then click "Create repository" Yay! Your repo is created. To clone this repo to your computer is very simple as well. You'll notice a URL in a little box in the lower right hand side of your screen. Copy that URL. Switch to your terminal and type "git clone (paste URL here)"
