@@ -27,7 +27,11 @@ What are the main things someone should know about design and user experience?
 
 The main thing we are looking for here is ease for the user, we don't want the user experience to be frusrating or stressful. These two need to coincide, the design could be really cool, but it's no fun if its a pain to navigate. It is also good to note that it is not one size fits all, it should be tailored to the audience.
 
+<<<<<<< HEAD
 What is user experience design and why is it valuable? 
+=======
+What is user experience design and why is it valuable?  
+>>>>>>> img-branch
 
 User experience design is how the user feels when interacting with a site. It is valuable to know because you want to create a site that is most easily navigated by the target audience. If your users are having difficulty, this should inspire you to see how you can improve the site for their needs. We don't want our users pulling out their hair!
 
@@ -35,4 +39,8 @@ Which parts of the challenge did you find tedious?
 
 Actually I think that part is coming up right now. Is the screen shot I took going to make it to my imgs directory? What exactly is markdown and was I suppose to use it here? Let's see how many attempts this takes.
 
+<<<<<<< HEAD
 ![Alt text](/path/to/img/Sitemap.pngls)
+=======
+<img src="Screen Shot 2015-09-14 at 6.50.29 PM.png" /> 
+>>>>>>> img-branch
