@@ -40,7 +40,11 @@ Which parts of the challenge did you find tedious?
 Actually I think that part is coming up right now. Is the screen shot I took going to make it to my imgs directory? What exactly is markdown and was I suppose to use it here? Let's see how many attempts this takes.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ![Alt text](/path/to/img/Sitemap.pngls)
 =======
 <img src="Screen Shot 2015-09-14 at 6.50.29 PM.png" /> 
 >>>>>>> img-branch
+=======
+<img src="Screen Shot 2015-09-14 at 6.50.29 PM.png" /> 
+>>>>>>> 54d5092ab6ad2c039a01882ce85581ded5114b51
