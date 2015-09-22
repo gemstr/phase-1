@@ -1,6 +1,10 @@
 
 1.1 Think About Time Reflection
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/making-changes
 I touched on all of the videos and articles listed. As far as meditation goes, it's one of those things that I want to make work for me but I just can't seems to. I am one of those people who tries to go to bed at night and I just can't stop my mind from running. My thoughts coule be about anything, something stupid, something silly, its just all over the place. It seems that meditation would be a nice solution for this, maybe someday I'll get on board. 
 
 Time boxing is working in an agreed allotment of time, followed by a mandatory break to reflect and regroup. The pomodoro technique is interesting to me, I've never tried anything like that. I am not a procrastinator, I am the type to dive in and push until the project is complete, so I might be annoyed when that timer goes off. I can see where this might be more beneficial in group settings to keep everyone on the same page.
@@ -11,7 +15,10 @@ Currently I feel that I manage my time well, although I know that this program i
 My current strategy works for what I have now, but like I said I know I will need to make adjustments. I am type A personality and I am very set in my routine, so it does worry me a little how I will execute these changes. I think of the material above, the best way to start for me is by creating small habits, that way they will eventually become routine for me as well. 
 
 My overall plan for Phase-0 time management? Honestly I'll have to feel it out first to see what type of adjustments I will need to make. Since I am coming in with zero knowledge, I feel I will be on the higher end of the timeframe given. I really want to stay on top of the challenges and keep up with everyone else.
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/making-changes
 
 1.2 The Command Line Reflection
 
@@ -36,7 +43,11 @@ I remember about half of these off the top of my head.
 
 -../ Is a directory
 
+<<<<<<< HEAD
 -touch: Creates a new empty file 
+=======
+-touch: Creates a new empty file
+>>>>>>> origin/making-changes
 
 -mkdir: Creates new directories
 
@@ -48,7 +59,10 @@ I remember about half of these off the top of my head.
 
 -help: I'm not sure, but when I tried it, it spit out all kinds of commands what look like abbreviations for some.
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/making-changes
 1.4 Forking and Cloning Reflection  
 
 
