@@ -47,4 +47,8 @@ Actually I think that part is coming up right now. Is the screen shot I took goi
 >>>>>>> img-branch
 =======
 <img src="Screen Shot 2015-09-14 at 6.50.29 PM.png" /> 
+<<<<<<< HEAD
 >>>>>>> 54d5092ab6ad2c039a01882ce85581ded5114b51
+=======
+>>>>>>> 7dc133af93360331424a8f696604aaa20fd82865
+>>>>>>> origin/feat-branch
