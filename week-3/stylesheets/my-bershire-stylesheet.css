@@ -1,0 +1,96 @@
+html {
+  color: #000080;
+  background-color: #ffffff;
+
+}
+.tiny {
+  font-size:12px;
+}
+
+.GEICO {
+  text-align: center;
+}
+
+.normal{
+  font-size:16px;
+}
+
+header div{
+  font-size:10px;
+}
+span {
+  font-size:30px;
+}
+
+li{
+  padding:20px;
+}
+
+a {
+color: #800080;
+}
+
+ 
+a:visited{
+  color: red;
+
+}
+
+.listicle{
+
+  padding-left: 50px;
+  padding-right: 50px;
+  -webkit-column-count: 2;
+}
+
+div p{
+  font-size: 10px;
+  display:block;
+  height:10px;
+}
+
+header {
+ font-weight: bold;
+ text-align: center;
+}
+div div{
+  display:block;
+  height: 30px;
+}
+
+.hline {
+  display:block;
+  height:1px;
+  background-color:gray;
+  width:100%;
+}
+
+
+/*
+What is important to know when linking an external file (like a stylesheet) to an HTML file?
+
+You need to make sure to put a <link in the <head> of your html, so it will be able to read the stylesheet. It looks like this
+<link rel="stylesheet" type="text/css" href="css-positioning.css">
+
+
+What tricks did you use to help you with positioning? How hard was it to get the site as you wanted it?
+
+No tricks, just lots of research. It was really hard for us! Our bullet points kept disappearing and we didn't fully understand
+why. There must be a clash of the types of positioning in there somewhere.
+
+
+What CSS did you use to modify the element style (like size, color, etc.)
+
+Well I learned what a span was! We looked up how to set our <a> tags to a different color after they have been clicked on.
+Like I said, lots of looking up stuff here.
+
+
+Did you modify the HTML to include classes or ids? If so, which did you chose and why? If you didn't, how would you know which one to add to your HTML?
+When you compared your site to the actual code base, which do you think had cleaner code that followed best practices and why?
+
+We modified it to use classes. From what I am hearing you are only suppose to use an ID once, but apparently that is a new
+thing with html 5 and in the past several ID's were used. We didn't use any and I don't know how to right now. The sites source 
+code was very clean and there is a lot in it I have yet to learn. I noticed the use of tags I haven't seen yet like <tr> and <td>.
+
+
+*/
